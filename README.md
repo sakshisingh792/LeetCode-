@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0134-gas-station](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
