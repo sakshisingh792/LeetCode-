@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0020-valid-parentheses) |
