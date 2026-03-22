@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
 ## Greedy
