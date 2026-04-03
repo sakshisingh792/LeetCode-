@@ -2,7 +2,7 @@ class Solution:
     def maxArea(self, height: List[int]) -> int:
         n=len(height)
         i,j=0,n-1
-        max_area=float("-inf")
+        max_area=0
 
         while i<j:
             breadth=j-i
