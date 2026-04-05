@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
