@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 ## Linked List
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 ## Stack
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0383-ransom-note](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 ## Rolling Hash
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Union-Find
 |  |
 | ------- |
