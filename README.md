@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Matrix
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 ## Trie
 |  |
@@ -393,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Union-Find
 |  |
