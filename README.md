@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
