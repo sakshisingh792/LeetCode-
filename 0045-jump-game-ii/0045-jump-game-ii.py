@@ -10,4 +10,5 @@ class Solution:
                 jump+=1
                 end=farthest
 
-        return jump        
+        return jump   
+        
