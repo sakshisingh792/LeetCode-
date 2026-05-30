@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0525-contiguous-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0930-binary-subarrays-with-sum) |
