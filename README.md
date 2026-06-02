@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1539-kth-missing-positive-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
 | ------- |
@@ -441,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Prefix Sum
 |  |
 | ------- |
