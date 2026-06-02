@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
+| [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
