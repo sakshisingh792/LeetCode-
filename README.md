@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2200-find-all-k-distant-indices-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
