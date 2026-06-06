@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1004-max-consecutive-ones-iii) |
@@ -588,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
