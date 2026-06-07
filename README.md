@@ -597,4 +597,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
