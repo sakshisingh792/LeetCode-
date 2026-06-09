@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2420-find-all-good-indices](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2420-find-all-good-indices) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [2420-find-all-good-indices](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2420-find-all-good-indices) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
+| [2420-find-all-good-indices](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2420-find-all-good-indices) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2574-left-and-right-sum-differences) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
