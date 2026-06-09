@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3689-maximum-total-subarray-value-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
 | ------- |
