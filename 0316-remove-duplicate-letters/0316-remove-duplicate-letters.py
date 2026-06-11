@@ -1,23 +1,24 @@
 class Solution:
     def removeDuplicateLetters(self, s: str) -> str:
-        last={}
+        last=[0]*26
         for i in range(len(s)):
             ch=s[i]
-            last[ch]=i
+            index=ord(ch)-ord("a")
+            last[index]=i
 
-        taken=set()
-        stack=[]
+        taken=[False]*26
+        res=""
         for i in range(len(s)):
             ch=s[i]
+            index=ord(ch)-ord("a")
 
-            if ch in taken:
+            if taken[index]:
                 continue
 
-            while stack and stack[-1]>ch and last[stack[-1]]>i:
-                taken.remove(stack.pop())
+            while res and res[-1]>ch and last[ord(res[-1])-ord("a")]  >i:
+                taken[ord(res[-1])-ord("a")]=False
+                res=res[:-1]
 
-            stack.append(ch)
-            taken.add(ch)
-        return "".join(stack)                
-
-        
+            res+=ch
+            taken[ord(ch)-ord("a")]=True 
+        return res             
