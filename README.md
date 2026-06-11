@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Design
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0930-binary-subarrays-with-sum) |
@@ -531,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
@@ -632,5 +636,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
