@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0057-insert-interval) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
