@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
