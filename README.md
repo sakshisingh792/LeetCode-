@@ -583,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0145-binary-tree-postorder-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Memoization
 |  |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
