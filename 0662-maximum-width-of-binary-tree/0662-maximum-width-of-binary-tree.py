@@ -18,10 +18,10 @@ class Solution:
                 node,idx=q.popleft()
 
                 if node.left:
-                    q.append([node.left,idx*2])
+                    q.append((node.left,idx*2))
 
                 if node.right:
-                    q.append([node.right,idx*2+1])
+                    q.append((node.right,idx*2+1))
             ans=max(ans,last-first+1)
         return ans                
        
