@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
