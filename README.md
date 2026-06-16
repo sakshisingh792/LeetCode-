@@ -349,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2559-count-vowel-strings-in-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2574-left-and-right-sum-differences) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
+| [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 ## Design
 |  |
 | ------- |
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 ## Union-Find
 |  |
 | ------- |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
+| [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -702,11 +706,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 ## Data Stream
 |  |
 | ------- |
