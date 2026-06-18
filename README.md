@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0290-word-pattern) |
 | [0316-remove-duplicate-letters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0344-reverse-string) |
@@ -630,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0222-count-complete-tree-nodes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -704,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0040-combination-sum-ii) |
 | [0113-path-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
 | ------- |
