@@ -8,7 +8,7 @@ class Solution:
     def averageOfLevels(self, root: Optional[TreeNode]) -> List[float]:
         from collections import deque
         if root==None:
-            return [0]
+            return []
         q=deque([root])
         ans=[]
 
