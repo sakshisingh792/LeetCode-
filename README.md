@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
