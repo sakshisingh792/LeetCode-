@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0135-candy) |
+| [0152-maximum-product-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0179-largest-number) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
