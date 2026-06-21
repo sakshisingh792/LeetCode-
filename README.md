@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1732-find-the-highest-altitude](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1854-maximum-population-year) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
+| [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -737,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search Tree
 |  |
 | ------- |
