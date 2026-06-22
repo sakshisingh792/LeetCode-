@@ -1,27 +1,20 @@
 class Solution:
     def countNodes(self, root: Optional[TreeNode]) -> int:
-
-        def leftHeight(node):
-            h = 0
-            while node:
-                h += 1
-                node = node.left
-            return h
-
-        def rightHeight(node):
-            h = 0
-            while node:
-                h += 1
-                node = node.right
-            return h
-
-        if not root:
+        from collections import deque
+        q=deque([root])
+        if root==None:
             return 0
+        
+        count=0
+        while q:
+            n=len(q)
+            for i in range(n):
+                node=q.popleft()
+                count+=1
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
+        return count                
 
-        lh = leftHeight(root)
-        rh = rightHeight(root)
 
-        if lh == rh:
-            return (1 << lh) - 1
-
-        return 1 + self.countNodes(root.left) + self.countNodes(root.right)
