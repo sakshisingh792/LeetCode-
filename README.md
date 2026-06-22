@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -710,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Memoization
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0700-search-in-a-binary-search-tree) |
 ## Interactive
 |  |
 | ------- |
