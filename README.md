@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1480-running-sum-of-1d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1550-three-consecutive-odds) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1732-find-the-highest-altitude) |
