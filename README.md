@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0904-fruit-into-baskets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
+| [1189-maximum-number-of-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1854-maximum-population-year](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
