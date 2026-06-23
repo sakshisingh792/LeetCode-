@@ -4,13 +4,11 @@ class Solution:
         left=0
         right=n-1
         while left<right:
-            total=nums[left]+nums[right]
-            if total==target:
+            summ=nums[left]+nums[right]
+            if target==summ:
                 return [left+1,right+1]
-
-            if total<target:
-                left+=1
-            else:
+            elif target<summ:
                 right-=1
-
+            else:
+                left+=1        
         
