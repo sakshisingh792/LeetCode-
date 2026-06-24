@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0239-sliding-window-maximum) |
+| [0274-h-index](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search Tree
