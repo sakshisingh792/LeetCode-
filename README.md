@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0229-majority-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
