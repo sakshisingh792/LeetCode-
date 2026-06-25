@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
