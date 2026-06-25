@@ -10,7 +10,7 @@ class Solution:
                 left+=1
 
             if right-left+1==k:
-                if summ//k>=threshold:
+                if summ>=threshold*k:
                     ans+=1    
         return ans            
         
