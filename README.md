@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
+| [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Linked List
 |  |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3614-process-string-with-special-operations-ii) |
+| [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3838-weighted-word-mapping](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3838-weighted-word-mapping) |
 ## Stack
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1854-maximum-population-year](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
+| [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
 |  |
