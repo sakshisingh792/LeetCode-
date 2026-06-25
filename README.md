@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0904-fruit-into-baskets) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
