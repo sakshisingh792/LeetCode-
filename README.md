@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
@@ -783,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0040-combination-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
