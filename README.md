@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0012-integer-to-roman](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -826,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
