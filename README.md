@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0088-merge-sorted-array) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0039-combination-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0047-permutations-ii) |
 | [0113-path-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
