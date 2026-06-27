@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
