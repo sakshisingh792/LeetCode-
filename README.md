@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
