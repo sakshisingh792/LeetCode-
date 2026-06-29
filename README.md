@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3100-water-bottles-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3100-water-bottles-ii) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3516-find-closest-person](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2553-separate-the-digits-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3100-water-bottles-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3100-water-bottles-ii) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3838-weighted-word-mapping) |
 ## String Matching
@@ -862,4 +864,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
