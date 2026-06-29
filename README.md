@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1929-concatenation-of-array) |
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1991-find-the-middle-index-in-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2079-watering-plants](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2079-watering-plants) |
