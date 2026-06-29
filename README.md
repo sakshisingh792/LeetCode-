@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0216-combination-sum-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0229-majority-element-ii) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0078-subsets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
 ## Bucket Sort
 |  |
