@@ -1,18 +1,23 @@
 class Solution:
     def combine(self, n: int, k: int) -> List[List[int]]:
         ans=[]
-        def combina(i,path):
+        def backtrack(i,path):
             if len(path)==k:
                 ans.append(path[:])
                 return
-            for j in range(i,n+1):  
-               
-                    path.append(j)
-                    combina(j+1,path)
-                    path.pop()
+            if i>n:
+                return 
+
+            path.append(i)
+            backtrack(i+1,path)
+            path.pop()
+
+            backtrack(i+1,path)    
+
+
 
                  
 
-        combina(1,[])    
+        backtrack(1,[])    
         return ans
         
