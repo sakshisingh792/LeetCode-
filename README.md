@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -707,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
