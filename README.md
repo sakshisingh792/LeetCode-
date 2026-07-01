@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0069-sqrtx) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0076-minimum-window-substring) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
