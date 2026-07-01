@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3516-find-closest-person](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3634-minimum-removals-to-balance-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3634-minimum-removals-to-balance-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3689-maximum-total-subarray-value-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3838-weighted-word-mapping](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
