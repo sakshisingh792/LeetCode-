@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -623,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0724-find-pivot-index) |
