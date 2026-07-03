@@ -373,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0594-longest-harmonious-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0724-find-pivot-index) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
