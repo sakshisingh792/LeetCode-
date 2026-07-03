@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3597-partition-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3597-partition-string) |
 | [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3597-partition-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3597-partition-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3614-process-string-with-special-operations-ii) |
 | [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3838-weighted-word-mapping](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3838-weighted-word-mapping) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3100-water-bottles-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3100-water-bottles-ii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3597-partition-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3597-partition-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3838-weighted-word-mapping) |
 ## String Matching
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [3597-partition-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3597-partition-string) |
 ## Sliding Window
 |  |
 | ------- |
