@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
+| [0118-pascals-triangle](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0124-binary-tree-maximum-path-sum) |
