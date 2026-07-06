@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
+| [1288-remove-covered-intervals](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1288-remove-covered-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1288-remove-covered-intervals](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
