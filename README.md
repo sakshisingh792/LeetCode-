@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
