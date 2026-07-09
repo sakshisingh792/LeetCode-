@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
+| [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2420-find-all-good-indices](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2420-find-all-good-indices) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
