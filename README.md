@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
