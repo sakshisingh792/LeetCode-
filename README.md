@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3516-find-closest-person](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
