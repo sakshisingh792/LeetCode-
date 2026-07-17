@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0412-fizz-buzz](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
