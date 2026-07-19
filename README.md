@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2104-sum-of-subarray-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search
 |  |
@@ -704,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
