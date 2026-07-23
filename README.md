@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3100-water-bottles-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3100-water-bottles-ii) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3516-find-closest-person](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3634-minimum-removals-to-balance-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3689-maximum-total-subarray-value-i) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting
 |  |
 | ------- |
