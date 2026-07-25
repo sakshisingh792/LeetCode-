@@ -5,6 +5,7 @@ class Solution:
             d=n%10
             num.append(d)
             n=n//10
-        num.sort()
 
+        num.sort()
         return num[-1]*num[-2]    
+        
