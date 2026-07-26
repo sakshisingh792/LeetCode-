@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1344-angle-between-hands-of-a-clock](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1518-water-bottles](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3100-water-bottles-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3100-water-bottles-ii) |
@@ -473,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2079-watering-plants](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2079-watering-plants) |
 | [2104-sum-of-subarray-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -691,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
 | [1260-shift-2d-grid](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
 ## Greedy
