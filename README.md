@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1051-height-checker](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -981,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0274-h-index](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0274-h-index) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1051-height-checker) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search Tree
 |  |
