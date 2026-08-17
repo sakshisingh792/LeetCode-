@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0371-sum-of-two-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 ## String
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0525-contiguous-array) |
@@ -642,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
@@ -1039,5 +1043,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
