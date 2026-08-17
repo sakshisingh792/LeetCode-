@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1695-maximum-erasure-value) |
+| [1710-maximum-units-on-a-truck](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1800-maximum-ascending-subarray-sum) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
+| [1710-maximum-units-on-a-truck](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
