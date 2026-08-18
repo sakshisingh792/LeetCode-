@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
@@ -1044,13 +1047,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
