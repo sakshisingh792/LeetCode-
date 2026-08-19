@@ -540,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0397-integer-replacement) |
 | [0476-number-complement](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0476-number-complement) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0213-house-robber-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0213-house-robber-ii) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0179-largest-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0316-remove-duplicate-letters) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
@@ -955,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 ## Breadth-First Search
