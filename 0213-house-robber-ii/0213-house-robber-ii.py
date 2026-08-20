@@ -1,18 +1,19 @@
 class Solution:
     #tabulation
     def solve(self,nums,dp,ind):
-        dp[0]=nums[0]
-        for i in range(1,ind+1):
 
-            if i>1:
-                pick=nums[i]+dp[i-2]
-            else:
-                pick=nums[i]   
-            skip=dp[i-1]
+        prev=nums[0]
+        prev2=0
+        for i in range(1,len(nums)):
+            pick=nums[i]+prev2
+            skip=prev
+            curr=max(pick,skip)
+            prev2=prev
+            prev=curr
+        return prev    
+            
 
-            dp[i]=max(pick,skip)
 
-        return dp[ind]        
     def rob(self, nums: List[int]) -> int:
         n=len(nums)
 
