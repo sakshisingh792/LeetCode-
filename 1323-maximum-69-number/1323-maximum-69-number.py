@@ -1,25 +1,19 @@
 class Solution:
     def maximum69Number (self, num: int) -> int:
-        arr=[]
-        
-        while num>0:
-            last_digit=num%10
-            num=num//10
-            arr.append(last_digit)
-        arr.reverse()
-        
-        st=""
-        for i in range(len(arr)):
-           
-            if arr[i]==6:
-                arr[i]=9
-                break
-                  
+        temp=num
+        placevaluesix=-1
+        placeval=0
+        while temp>0:
+            rem=temp%10
+            if rem==6:
+                placevaluesix=placeval
 
-        ans=0
-        for i in range(len(arr)):
-            ans=ans*10+arr[i]
+            temp =temp//10
+            placeval+=1
 
-        return ans           
 
+        if placevaluesix==-1:
+            return num
+        else:
+            return num+3*(pow(10,placevaluesix))            
         
