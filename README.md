@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1408-string-matching-in-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1408-string-matching-in-an-array) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1550-three-consecutive-odds) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1695-maximum-erasure-value) |
@@ -669,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2420-find-all-good-indices](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2420-find-all-good-indices) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Geometry
@@ -770,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1328-break-a-palindrome) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1710-maximum-units-on-a-truck](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
