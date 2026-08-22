@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
+| [0881-boats-to-save-people](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-bag-of-tokens](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0948-bag-of-tokens) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
+| [0881-boats-to-save-people](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
+| [0881-boats-to-save-people](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0860-lemonade-change) |
+| [0881-boats-to-save-people](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0948-bag-of-tokens) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1069,4 +1073,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
