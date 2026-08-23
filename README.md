@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
 | [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1854-maximum-population-year](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1854-maximum-population-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3692-majority-frequency-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3692-majority-frequency-characters) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Rolling Hash
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
