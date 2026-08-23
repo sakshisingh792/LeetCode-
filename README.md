@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1518-water-bottles](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2161-partition-array-according-to-given-pivot](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2420-find-all-good-indices](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2420-find-all-good-indices) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1936-add-minimum-number-of-rungs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1936-add-minimum-number-of-rungs) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2366-minimum-replacements-to-sort-the-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
