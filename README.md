@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2460-apply-operations-to-an-array) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Divide and Conquer
 |  |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2062-count-vowel-substrings-of-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2390-removing-stars-from-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2833-furthest-point-from-origin](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2833-furthest-point-from-origin) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -795,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2611-mice-and-cheese](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2611-mice-and-cheese) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3074-apple-redistribution-into-boxes) |
