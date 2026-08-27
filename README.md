@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [0948-bag-of-tokens](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0992-subarrays-with-k-different-integers) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
 | [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
