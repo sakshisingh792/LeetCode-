@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0658-find-k-closest-elements) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0566-reshape-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0643-maximum-average-subarray-i) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0410-split-array-largest-sum) |
+| [0611-valid-triangle-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0875-koko-eating-bananas) |
@@ -776,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
