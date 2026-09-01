@@ -1071,6 +1071,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0175-combine-two-tables](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0175-combine-two-tables) |
 | [1148-article-views-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1757-recyclable-and-low-fat-products) |
 ## Ordered Set
