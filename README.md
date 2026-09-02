@@ -1072,6 +1072,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
