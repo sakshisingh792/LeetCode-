@@ -6,7 +6,7 @@ class Solution:
             if nums[i]<nums[i+1]:
                 continue
 
-            parts=(nums[i]-1)//nums[i+1]+1
+            parts=(nums[i]+nums[i+1]-1)//nums[i+1]
             
 
             ans+=parts-1
