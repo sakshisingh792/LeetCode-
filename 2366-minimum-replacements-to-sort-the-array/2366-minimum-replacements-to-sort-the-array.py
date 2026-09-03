@@ -1,16 +1,16 @@
 class Solution:
     def minimumReplacement(self, nums: List[int]) -> int:
-        n = len(nums)
-        ans = 0
+        n=len(nums)
+        ans=0
+        for i in range(n-2,-1,-1):
+            if nums[i]<nums[i+1]:
+                continue
 
-        for i in range(n - 2, -1, -1):
+            parts=(nums[i]-1)//nums[i+1]+1
+            
 
-            if nums[i] > nums[i + 1]:
+            ans+=parts-1
+            nums[i]=nums[i]//parts
 
-                parts = (nums[i] + nums[i + 1] - 1) // nums[i + 1]
-
-                ans += parts - 1
-
-                nums[i] = nums[i] // parts
-
-        return ans
+        return ans            
+                
