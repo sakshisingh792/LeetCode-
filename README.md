@@ -561,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3838-weighted-word-mapping](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3904-smallest-stable-index-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
 | ------- |
