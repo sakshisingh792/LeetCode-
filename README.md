@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1695-maximum-erasure-value](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1695-maximum-erasure-value) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1288-remove-covered-intervals](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1323-maximum-69-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1323-maximum-69-number) |
 | [1328-break-a-palindrome](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1328-break-a-palindrome) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1710-maximum-units-on-a-truck](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1710-maximum-units-on-a-truck) |
 | [1754-largest-merge-of-two-strings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1754-largest-merge-of-two-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1833-maximum-ice-cream-bars) |
