@@ -6,14 +6,12 @@ class Solution:
             ch_arr[ind]+=1
 
 
+        ch_arr.sort()
+        n=len(ch_arr)
         res=0
-        seen=set()
-        for x in range(len(ch_arr)):
-            while ch_arr[x]>0 and ch_arr[x] in seen:
-                ch_arr[x]-=1
-                res+=1
-            seen.add(ch_arr[x])
+        for i in range(n-2,-1,-1):
+            if ch_arr[i]>=ch_arr[i+1]:
+                prev=ch_arr[i]
+                ch_arr[i]=max(0,ch_arr[i+1]-1)
+                res+=prev-ch_arr[i]
         return res        
-
-
-        
