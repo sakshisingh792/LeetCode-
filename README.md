@@ -1150,4 +1150,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
