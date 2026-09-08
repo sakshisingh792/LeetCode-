@@ -1,14 +1,14 @@
 class Solution:
     def countCommas(self, n: int) -> int:
-        count=0
-        for i in range(1,n+1):
-            arr=[]
-            num=i
-            while num>0:
-                lstdig=i%10
-                arr.append(lstdig)
-                num=num//10
-            digits=len(arr)    
-            if digits>=3:
-                count+=  (digits-1)//3
-        return count        
+        count = 0
+
+        if n >= 1000:
+            count += n - 999
+
+        if n >= 1000000:
+            count += n - 999999
+
+        if n >= 1000000000:
+            count += n - 999999999
+
+        return count
