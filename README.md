@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0621-task-scheduler) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0611-valid-triangle-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0647-palindromic-substrings) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0881-boats-to-save-people) |
@@ -956,6 +958,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -986,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1018,6 +1022,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -1044,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1085,6 +1091,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Interactive
