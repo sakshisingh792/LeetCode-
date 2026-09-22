@@ -448,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0274-h-index](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0397-integer-replacement) |
@@ -1059,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -1168,6 +1171,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
@@ -1185,5 +1189,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
