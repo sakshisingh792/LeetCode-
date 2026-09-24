@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
@@ -705,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
@@ -1081,6 +1083,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1173,11 +1176,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0322-coin-change](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
 ## Quicksort
 |  |
 | ------- |
