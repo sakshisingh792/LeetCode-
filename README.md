@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1288-remove-covered-intervals) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -718,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0766-toeplitz-matrix](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0766-toeplitz-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1260-shift-2d-grid) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1672-richest-customer-wealth](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
