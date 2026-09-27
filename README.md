@@ -1210,4 +1210,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0300-longest-increasing-subsequence) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
