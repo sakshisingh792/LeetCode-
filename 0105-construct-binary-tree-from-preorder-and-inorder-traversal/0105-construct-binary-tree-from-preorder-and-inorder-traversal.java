@@ -16,10 +16,7 @@
 class Solution {
     int ind=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
-        int n=preorder.length;
-        return build(preorder,inorder,0,n-1);
-        
-        
+        return build( preorder, inorder,0,preorder.length-1);
     }
     public TreeNode build(int[] preorder,int[] inorder,int start,int end){
         if(start>end){
@@ -28,16 +25,14 @@ class Solution {
 
         TreeNode root=new TreeNode(preorder[ind]);
         ind++;
+
         int i=start;
-        for(;i<end+1;i++){
-            if(inorder[i]==root.val){
-                break;
-            }
+        while(inorder[i]!=root.val){
+            i++;
         }
+
         root.left=build(preorder,inorder,start,i-1);
         root.right=build(preorder,inorder,i+1,end);
-
-       return root;
-        
+        return root;
     }
 }
