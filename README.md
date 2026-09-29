@@ -1221,4 +1221,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
