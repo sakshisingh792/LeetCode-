@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -1226,5 +1228,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
