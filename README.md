@@ -1233,4 +1233,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
