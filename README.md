@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0763-partition-labels](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1092-shortest-common-supersequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
+| [1092-shortest-common-supersequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1232,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
 ## Manacher
 |  |
