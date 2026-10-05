@@ -1,34 +1,16 @@
 class Solution:
-    def maxScore(self, cardPoints: List[int], k: int) -> int:
-        
-   
+    def maxScore(self, nums: List[int], k: int) -> int:
+        n = len(nums)
 
-        n = len(cardPoints)
-
-        # if taking all cards
-        if k == n:
-            return sum(cardPoints)
-
-        total = sum(cardPoints)
-
-        window_size = n - k
-
-        # first window sum
-        window_sum = sum(cardPoints[:window_size])
-
-        min_sum = window_sum
+        curr = sum(nums[:k])
+        ans = curr
 
         left = 0
 
-        # slide the window
-        for right in range(window_size, n):
+        for right in range(k):
+            curr -= nums[k - 1 - right]
+            curr += nums[n - 1 - right]
 
-            window_sum += cardPoints[right]
-            window_sum -= cardPoints[left]
+            ans = max(ans, curr)
 
-            left += 1
-
-            min_sum = min(min_sum, window_sum)
-
-        return total - min_sum
-        
+        return ans
