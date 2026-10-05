@@ -509,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1049-last-stone-weight-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -731,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1092-shortest-common-supersequence) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1143-longest-common-subsequence) |
@@ -1206,11 +1208,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1049-last-stone-weight-ii) |
 ## Quicksort
 |  |
 | ------- |
