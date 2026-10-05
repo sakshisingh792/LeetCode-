@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0486-predict-the-winner) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0032-longest-valid-parentheses](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0072-edit-distance) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0022-generate-parentheses](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
@@ -819,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
