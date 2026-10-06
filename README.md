@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0187-repeated-dna-sequences) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0213-house-robber-ii) |
@@ -905,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 | [3597-partition-string](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3597-partition-string) |
 ## Sliding Window
 |  |
@@ -1081,6 +1086,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
@@ -1264,4 +1270,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
