@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0912-sort-an-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0912-sort-an-array) |
+| [0932-beautiful-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0932-beautiful-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0633-sum-of-square-numbers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0633-sum-of-square-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0932-beautiful-array) |
 | [0991-broken-calculator](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0991-broken-calculator) |
 | [1137-n-th-tribonacci-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0922-sort-array-by-parity-ii](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0922-sort-array-by-parity-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0931-minimum-falling-path-sum) |
+| [0932-beautiful-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0932-beautiful-array) |
 | [0948-bag-of-tokens](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0992-subarrays-with-k-different-integers) |
