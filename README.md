@@ -587,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2784-check-if-array-is-good](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2784-check-if-array-is-good) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3033-modify-the-matrix](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3033-modify-the-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/sakshisingh792/Leetcode_questions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2762-continuous-subarrays) |
+| [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3634-minimum-removals-to-balance-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3634-minimum-removals-to-balance-array) |
 ## Union-Find
 |  |
