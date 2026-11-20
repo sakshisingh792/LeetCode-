@@ -1,16 +1,19 @@
 class Solution:
-    def rob(self, nums: List[int]) -> int:
+    def rob(self, nums: list[int]) -> int:
         n=len(nums)
-        dp=[-1]*n
-        def solve(i):
-            if i>=n:
-                return 0
-
-            if dp[i] !=-1:
-                return dp[i]
-
-            rob=nums[i]+solve(i+2)
-            skip=solve(i+1)  
+        dp=[0]*n
+        if n==1:
+            return nums[0]
+        dp[0]=nums[0]
+        dp[1]=max(nums[0],nums[1])
+        for i in range(2,n):
+            rob=dp[i-2]+nums[i]
+            skip=dp[i-1]
             dp[i]=max(rob,skip)
-            return dp[i]   
-        return solve(0)          
+
+
+        return dp[n-1]    
+
+        
+                
+        
