@@ -1,37 +1,35 @@
 class Solution:
-    #tabulation
-    def solve(self,nums,dp,ind):
+    def solve(self, nums):
+        n = len(nums)
 
-        prev=nums[0]
-        prev2=0
-        for i in range(1,len(nums)):
-            pick=nums[i]+prev2
-            skip=prev
-            curr=max(pick,skip)
-            prev2=prev
-            prev=curr
-        return prev    
-            
+        if n == 0:
+            return 0
 
-
-    def rob(self, nums: List[int]) -> int:
-        n=len(nums)
-
-        if n==1:
+        if n == 1:
             return nums[0]
 
-        arr1=nums[0:n-1]
-        dp1=[-1]*len(arr1) 
+        dp = [0] * n
 
-        arr2=nums[1:n]
-        dp2=[-1]*len(arr2)
+        dp[0] = nums[0]
+        dp[1] = max(nums[0], nums[1])
 
-        ans1=self.solve(arr1,dp1,len(arr1)-1)   
-        ans2=self.solve(arr2,dp2,len(arr2)-1)
+        for i in range(2, n):
+            rob = nums[i] + dp[i-2]
+            skip = dp[i-1]
 
-    
+            dp[i] = max(rob, skip)
 
-        return max(ans1,ans2)
+        return dp[n-1]
 
-                 
-        
+    def rob(self, nums: List[int]) -> int:
+        n = len(nums)
+
+        if n == 1:
+            return nums[0]
+
+        ans = max(
+            self.solve(nums[:n-1]),
+            self.solve(nums[1:])
+        )
+
+        return ans
