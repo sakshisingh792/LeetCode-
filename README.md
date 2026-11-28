@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0367-valid-perfect-square) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sakshisingh792/Leetcode_questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0216-combination-sum-iii) |
@@ -987,12 +989,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/sakshisingh792/Leetcode_questions/tree/master/2947-count-beautiful-substrings-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1295,4 +1299,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0139-word-break) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sakshisingh792/HackWithInfyLNCT26/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
